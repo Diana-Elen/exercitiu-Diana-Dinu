@@ -11,4 +11,5 @@ button{
     background-color: red;
     font-size: large;
     color:white;
+    border-radius: 2ch;
 }
