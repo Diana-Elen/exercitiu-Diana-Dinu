@@ -25,6 +25,7 @@ body{
 }
 
 #h1{
+    position:fixed;
     inset:75vh 30vh 15vh;
 }
 
