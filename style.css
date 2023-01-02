@@ -1,15 +1,18 @@
+:root{
+    font-size: 16px;
+}
+
 body{
-    background-color: aqua;
+    background-image:url("ion.jpg");
 }
 
-button{
-    background-color: blueviolet;
-    padding:1em;
-}
-
-#buton2{
-    background-color: red;
+.buton1{
+    background-color: rgb(230, 119, 119);
     font-size: large;
     color:white;
     border-radius: 2ch;
+    padding:1em;
 }
+
+
+
