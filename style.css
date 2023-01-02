@@ -14,7 +14,7 @@ body{
     padding:1em;
 }
 
-.div {
+#container {
     display: flex;
     position:fixed;
     inset:130rem;
