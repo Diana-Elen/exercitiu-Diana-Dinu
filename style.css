@@ -25,7 +25,9 @@ body{
 }
 
 #h1{
+    display:block;
     position:fixed;
     inset:75vh 30vh 15vh;
+    
 }
 
