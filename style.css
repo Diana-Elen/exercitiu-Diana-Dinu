@@ -14,5 +14,7 @@ body{
     padding:1em;
 }
 
-
+.div {
+    display: flex;
+}
 
