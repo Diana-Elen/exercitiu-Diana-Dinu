@@ -27,7 +27,7 @@ body{
 #h1 {
     display:block;
     position:fixed;
-    inset:75vh 30vh 15vh;
+    inset:65vh 30vh 15vh;
     background-color: aqua;
     
 }
