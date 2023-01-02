@@ -18,9 +18,9 @@ body{
 
 #container {
     position:fixed;
-    inset-block-start:50rem;
-    inset-block-end: 20rem;
-    inset-inline:5rem;
+    inset-block-start:40vh;
+    inset-block-end: 20vh;
+    inset-inline:3vw;
     background-color: blueviolet;
 }
 
