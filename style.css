@@ -4,6 +4,7 @@
 
 body{
     background-image:url("ion.jpg");
+    background-repeat: no-repeat;
     position:fixed;
     left:0;
     width:100%;
