@@ -16,5 +16,6 @@ body{
 
 .div {
     display: flex;
+    inset:30rem;
 }
 
