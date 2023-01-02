@@ -5,7 +5,8 @@
 body{
     background-color: beige;
 }
-image{
+
+poza{
     background-image:url("ion.jpg");
     background-repeat: no-repeat;
     position:fixed;
