@@ -18,5 +18,6 @@ body{
     display: flex;
     position:fixed;
     inset:130rem;
+    background-color: blueviolet;
 }
 
