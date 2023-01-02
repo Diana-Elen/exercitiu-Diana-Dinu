@@ -8,8 +8,8 @@ body{
 
 #poza{
     position:sticky;
-    left:0;
-    right:0;
+    left:10rem;
+    right:rem;
     top:0;
 }
 
