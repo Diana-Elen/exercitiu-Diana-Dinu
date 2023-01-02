@@ -5,7 +5,7 @@
 body{
     background-image:url("ion.jpg");
     background-repeat: no-repeat;
-    width:100vw;
+    inset:0;
 }
 
 .buton1{
