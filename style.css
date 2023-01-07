@@ -19,6 +19,24 @@ body{
     padding:1em;
     text-decoration: none;
 }
+.buton1:active, .buton1:focus {
+    transform:translateY(2px);
+    box-shadow: 0 0 0;
+    outline: 0;
+    color:red;
+    }
+
+.buton1:hover {
+    transform:translate(2px,2px);
+    box-shadow: 1 1 0;
+    outline: 0;
+    color:rgb(34, 83, 191);
+    }
+
+    .container0:hover {
+        
+        color:rgb(152, 28, 129);
+        }
 
 #container {
     display: flex;
