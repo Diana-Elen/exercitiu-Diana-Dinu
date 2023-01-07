@@ -3,15 +3,13 @@
 }
 
 body{
-    background-color: beige;
+    background-image:url("macarons.jpg");
+    background-repeat: no-repeat;
+    height:100vh;
+    background-size: cover;
+    margin:0;
 }
 
-#poza{
-    position:sticky;
-    left:10rem;
-    right:rem;
-    top:0;
-}
 
 .buton1{
     background-color: rgb(230, 119, 119);
@@ -19,23 +17,25 @@ body{
     color:white;
     border-radius: 2ch;
     padding:1em;
+    text-decoration: none;
 }
 
 #container {
-    position:fixed;
-    inset-block-start:80vh;
-    inset-block-end: 10vh;
-    inset-inline:3vw;
-    background-color: blueviolet;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap:2rem;
 }
 
-#h1 {
+.container0 {
     display:block;
-    position:fixed;
-    inset:65vh 65vh 15vh;
-    background-color: aqua;
+    margin-inline:auto;
+    padding:1rem;
+    z-index: 1;
     text-align: center;
-    color:red;
+    color:white;
+    font-weight: bold;
     
 }
 
