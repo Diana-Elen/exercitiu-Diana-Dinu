@@ -57,7 +57,7 @@ body{
     
 }
 
-@media (min-width:800px) {
+@media (max-width:500px) {
 
     body{
         background-image:url("macarons.jpg");
