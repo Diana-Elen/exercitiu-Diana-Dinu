@@ -57,3 +57,62 @@ body{
     
 }
 
+@media (min-width:512px) {
+
+    body{
+        background-image:url("macarons.jpg");
+        background-repeat: repeat;
+        height:100vh;
+        background-size: cover;
+        margin:0;
+    }
+    
+    
+    .buton1{
+        background-color: rgb(49, 235, 83);
+        font-size: large;
+        color:rgb(222, 20, 195);
+        border-radius: 2ch;
+        padding:1em;
+        text-decoration: none;
+    }
+    .buton1:active, .buton1:focus {
+        transform:translateY(2px);
+        box-shadow: 0 0 0;
+        outline: 0;
+        color:red;
+        }
+    
+    .buton1:hover {
+        transform:translate(2px,2px);
+        box-shadow: 1 1 0;
+        outline: 0;
+        color:rgb(34, 83, 191);
+        }
+    
+        .container0:hover {
+            
+            color:rgb(152, 28, 129);
+            }
+    
+    #container {
+        display: flex;
+        flex: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap:2rem;
+    }
+    
+    .container0 {
+        display:block;
+        margin-inline:auto;
+        padding:1rem;
+        z-index: 1;
+        text-align: center;
+        color:white;
+        font-weight: bold;
+        
+    }
+
+
+}
